@@ -6,3 +6,14 @@ cd game
 python3 main.py
 
 ```
+# App project
+``` sh
+cgit clone
+cd app
+socurce env/bin/activate
+pip install -r requirements
+python3 main.py
+
+```
+
+
