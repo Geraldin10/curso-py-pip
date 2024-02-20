@@ -10,10 +10,11 @@ python3 main.py
 ``` sh
 cgit clone
 cd app
+python3 -m venv env
 socurce env/bin/activate
 pip install -r requirements
 python3 main.py
-
 ```
+
 
 
